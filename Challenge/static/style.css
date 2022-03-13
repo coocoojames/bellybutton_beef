@@ -1,0 +1,19 @@
+body {
+    color: #001432;
+    background-color: #FFEBCD;
+    font-family: 'Gills Sans MT';
+    font-size: 18px;
+}
+.col-md-12.jumbotron.text-center {
+    background-image: url('images/bellybutton.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-position: 50% 50%;
+}
+.col-md-12.jumbotron.text-center h1{
+    font-family: 'Segoe UI';
+}
+.col-md-12.jumbotron.text-center p{
+    font-family: 'Courier';
+}
